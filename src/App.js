@@ -1,6 +1,6 @@
 import React from 'react';
 import Countdown from '../src/components/Countdown';
-import './App.css';
+import './app.scss';
 
 function App() {
   return (
